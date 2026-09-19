@@ -35,4 +35,6 @@ Bay Area · Las Positas College, Associate in Science for Transfer (AS-T), expec
 
 More work and case studies: [zayyanlatif.com](https://zayyanlatif.com) · [LinkedIn](https://www.linkedin.com/in/zayyanlatif/)
 
+Public case studies: [Apply OS](https://github.com/zayyanlatif11-svg/apply-os-case-study) · [Agent Runtime](https://github.com/zayyanlatif11-svg/agent-runtime-case-study) · [DiliPilot](https://github.com/zayyanlatif11-svg/dilipilot-case-study)
+
 Private repositories stay private when they contain product source or sensitive workflow details; public surfaces are sanitized and claim-audited.
