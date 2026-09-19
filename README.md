@@ -18,6 +18,8 @@ I work at the intersection of agentic systems, product engineering, and business
 | [Apply OS case study](https://github.com/zayyanlatif11-svg/apply-os-case-study) | Private source: eligibility-first job-search control plane with structured ingestion, prioritization, approval gates, and truthful application preparation. |
 | [Agent Runtime case study](https://github.com/zayyanlatif11-svg/agent-runtime-case-study) | Private source: local-first agent infrastructure with model routing, tool-call repair, transactional patches, sandboxing, durable checkpoints, and verifier-gated completion. |
 | [DiliPilot case study](https://github.com/zayyanlatif11-svg/dilipilot-case-study) | Private source: acquisition-finance workflow that combines document provenance, deterministic financial calculations, review queues, and lender-prep outputs. |
+| [FDE Implementation Workbench](https://github.com/zayyanlatif11-svg/fde-implementation-workbench) | Inspectable offline implementation system: messy requirements → normalized configuration → bounded tool recovery → approval → audit receipt. |
+| [Adaptive LLM Gateway](https://github.com/zayyanlatif11-svg/adaptive-llm-gateway) | Inspectable model-routing infrastructure with hard privacy/capability gates, fallbacks, telemetry, and offline evaluation. |
 | [Solana Sentinel](https://github.com/zayyanlatif11-svg/solana-sentinel) | Public event-driven research platform with normalized data ingestion, policy/risk gates, explainable signals, and paper execution; live broadcast is hard-disabled. |
 | [Recruiter portfolio](https://zayyanlatif.com) | Public case studies for applied AI, finance, and operations products using clearly labeled sample data and evidence boundaries. |
 
