@@ -1,35 +1,38 @@
 # Zayyan Latif
 
-Business operations and finance builder turning messy workflows into practical,
-reviewable tools.
+Building applied AI systems and workflow software that turn messy operational problems into reliable, reviewable tools.
 
-I work across research, financial analysis, workflow design, and AI-assisted
-product development. My current portfolio focuses on:
+I work at the intersection of agentic systems, product engineering, and business operations: combining deterministic rules with language models, integrating real data sources, and adding verification and human approval where reliability matters.
 
-- **DiliPilot** — source-linked acquisition-finance preparation with deterministic
-  calculations and human approval gates.
-- **RunwayIQ** — a startup-finance simulator for burn, runway, hiring
-  affordability, variance, pipeline, and scenarios.
-- **Apply OS** — a personal local-first job-search control plane for eligibility,
-  truthful preparation, follow-up hygiene, and explicit human approval.
+## What I build
 
-Selected work and case studies: [zayyanlatif.com](https://zayyanlatif.com)
+- AI agents with tool calling, structured outputs, retries, sandboxing, and evidence-gated verification.
+- Local-first workflow products for job-search operations, diligence, finance, and technical operations.
+- Evaluation and routing infrastructure for comparing models and making AI behavior observable.
+- Customer-workflow-style implementations: messy inputs → encoded requirements → integrated tools → auditable outputs.
 
-The portfolio labels prototypes, simulated data, and sample-data interface
-renditions clearly. Private product repositories remain private; public code and
-sanitized evidence are the right surface for review.
+## Featured work
 
-## Recruiter lens
+| Project | Recruiter signal |
+| --- | --- |
+| [Apply OS](https://github.com/zayyanlatif11-svg/zayyan-apply-os-bootstrap) *(private source)* | Eligibility-first job-search control plane with structured ingestion, prioritization, approval gates, and truthful application preparation. |
+| [Agent Runtime](https://github.com/zayyanlatif11-svg/zayyan-agent-runtime) *(private source)* | Local-first agent infrastructure with model routing, tool-call repair, transactional patches, sandboxing, durable checkpoints, and verifier-gated completion. |
+| [DiliPilot](https://github.com/zayyanlatif11-svg/dilipilot) *(private source)* | Acquisition-finance workflow that combines document provenance, deterministic financial calculations, review queues, and lender-prep outputs. |
+| [Solana Sentinel](https://github.com/zayyanlatif11-svg/solana-sentinel) | Public event-driven research platform with normalized data ingestion, policy/risk gates, explainable signals, and paper execution; live broadcast is hard-disabled. |
+| [Recruiter portfolio](https://zayyanlatif.com) | Public case studies for applied AI, finance, and operations products using clearly labeled sample data and evidence boundaries. |
 
-- Bay Area · Business Administration AS-T, Las Positas College, expected May 2027
-- Interested in startup operations, founder’s associate, finance, and fintech
-  operations roles
-- Strengths: research, financial analysis, documentation, workflow design, and
-  approval-gated automation
+## Technical focus
 
-## Public repositories
+TypeScript · Python · Next.js · React · LLM APIs · local inference · tool calling · structured outputs · agent orchestration · evaluation/testing · Supabase/Postgres · Playwright · workflow automation
 
-- [solana-sentinel](https://github.com/zayyanlatif11-svg/solana-sentinel) — paper/demo
-  Solana agentic trading research platform; live send is hard-disabled.
-- [ADHDreminder](https://github.com/zayyanlatif11-svg/ADHDreminder) — public utility
-  project.
+## Current focus
+
+Applied AI and AI Forward Deployed Engineering: making systems useful in real workflows, reliable under failure, and legible to the people who operate them.
+
+## Background
+
+Bay Area · Las Positas College, Associate in Science for Transfer (AS-T), expected May 2027. Interested in applied AI, FDE, startup engineering, technical operations, and founder’s-office roles.
+
+More work and case studies: [zayyanlatif.com](https://zayyanlatif.com) · [LinkedIn](https://www.linkedin.com/in/zayyanlatif/)
+
+Private repositories stay private when they contain product source or sensitive workflow details; public surfaces are sanitized and claim-audited.
